@@ -1,0 +1,35 @@
+{
+  "name": "SKT-Dashboard",
+  "short_name": "skt-dash",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#0476F2",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "img/logo_blk.png",
+      "sizes": "226x227",
+      "type": "PNG"
+    },
+    {
+      "src": "img/new.png",
+      "sizes": "200x201",
+      "type": "PNG"
+    },
+    {
+      "src": "img/new_new.png",
+      "sizes": "144x145",
+      "type": "PNG"
+    },
+    {
+      "src": "img/new_image.png",
+      "sizes": "150x151",
+      "type": "PNG"
+    },
+    {
+      "src": "img/new_type.png",
+      "sizes": "130x131",
+      "type": "PNG"
+    }
+  ]
+}
